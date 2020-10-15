@@ -1,7 +1,7 @@
 DESCRIPTION: 
 ======
 
-###Repository for the solution of numerical methods. This repository includes common numerical methods for solving mathematical problems. Everything is programmed in C++ or Golang.
+### Repository for the solution of numerical methods. This repository includes common numerical methods for solving mathematical problems. Everything is programmed in C++ or Golang.
 
 ---
 
@@ -17,7 +17,7 @@ DESCRIPTION:
 
 ----
 
-#ToDo
+# ToDo
 - [ ] Add a Chebyshev polynomial.
 - [ ] Finding derivatives.
 
